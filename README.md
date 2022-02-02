@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alocoifindo 
 - 🌅 I’m interested in User Experience in Software and a e s t h e t i c s ~
-- 💻 My last projects are realized in Java and Swing GUI, but I'm interested in C++ and Qt
+- 💻 My last projects are realized in Java and Swing GUI
 - 🏎 My hobbies are Formula 1 and SIM Devices
 - 📫 How to reach me jobs@ff8.dev
 
